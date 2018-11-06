@@ -2,4 +2,4 @@
 tradition is tradition
 
 
-I am Aleksandar Mladenović, student of Faculty of Mathematics, Belgrade University. I'm interested in programming, especially game-development and graphic design. I have solid experience in different programming languages, such as C, C++ and Java. I plan to work hardly on C# in the future. I'm interested in participating in different projects, in order to learn more and help others in the progress.
+I am Aleksandar Mladenović, student of Faculty of Mathematics, Belgrade University. I'm interested in programming, especially machine-learning. I don't have experience there yet, but I plan to work harder on this subject in the future.
